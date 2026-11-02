@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+perfiles/
+*.pem
+registro.db
+contactos.json
+publico.json
+*.seguro.json
